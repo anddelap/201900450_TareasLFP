@@ -1,0 +1,26 @@
+[ 
+    {
+	    "nombre": "Luis",
+	    "apellido": "de la Pena",
+	    "edad": "20",
+	    "estudiante": false
+    },
+    {
+	    "nombre": "Sebastian",
+	    "apellido": "Pineda",
+	    "edad": 19,
+	    "estudiante": true	
+    },
+    {
+	    "nombre": "Jose",
+	    "apellido": "Perez",
+	    "edad": 18,
+	    "estudiante": false
+    },
+    {
+	    "nombre": "Juana",
+	    "apellido": "Enriquez",
+	    "edad": 25,
+	    "estudiante": true
+    }
+]

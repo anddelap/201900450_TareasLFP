@@ -1,0 +1,3 @@
+La diferencia entre los lenguajes de programacion imperatico y lenguajes de programacion declarativos es que los 
+imperativos especifican como se efectuan los calculos por medio de secuencias de cambios de estado para el almacenamiento en la computadora, 
+mientras que los lenguajes declarativos especifican que es lo que se calculara especificando una relacion o funcion.

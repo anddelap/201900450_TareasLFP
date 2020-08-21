@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carros>
+    <carro id="1">
+        <marca>toyota</marca>
+        <modelo>yaris</modelo>
+        <placa>123ABC</placa>
+        <serie>789545</serie>
+    </carro>
+    <carro id="2">
+        <marca>honda</marca>
+        <modelo>civic</modelo>
+        <placa>456DEF</placa>
+        <serie>965712</serie>
+    </carro>
+    <carro id="3">
+        <marca>ford</marca>
+        <modelo>focus</modelo>
+        <placa>789GHI</placa>
+        <serie>632785</serie>
+    </carro>
+    <carro id="4">
+        <marca>porche</marca>
+        <modelo>cayenne</modelo>
+        <placa>102JKL</placa>
+        <serie>987541</serie>
+    </carro>
+</carros>
