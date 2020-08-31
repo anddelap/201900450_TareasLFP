@@ -34,5 +34,6 @@ def Reporte():
     f = open('Reporte.html','wb')
     f.write(bytes(d,"ascii"))
     f.close()
+    
     webbrowser.open_new_tab('Reporte.html')
 Reporte()
