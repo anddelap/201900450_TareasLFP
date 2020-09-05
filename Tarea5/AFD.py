@@ -23,7 +23,7 @@ def AFD(entrada):
                 return 
         elif estado==2:
             if entrada[i] in ('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z'):
-                estado=3
+                estado=2
             elif entrada[i] in ('1','2','3','4','5','6','7','8','9'):
                 estado=4
             else:
